@@ -1,1 +1,2 @@
-var test1= "234";
+var test1 = "123";
+var test2 = "234";
